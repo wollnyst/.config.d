@@ -1,0 +1,18 @@
+---
+- hosts: local
+  roles:
+    # - homebrew
+    - utils
+    # - tmux
+    # - git
+    # - zsh
+    # - vim
+    # - golang
+    # - docker
+    # - python
+    # - postgresql
+    # - haskell
+    # - node
+    # - dev
+    # - common
+    #- ruby
